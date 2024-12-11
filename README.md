@@ -46,7 +46,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/SnippetSleuth.git
+git clone https://github.com/srujanchidarla/SnippetSleuth.git
 
 Open Google Chrome and navigate to chrome://extensions/.
 
@@ -84,4 +84,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 
-For questions or support, contact the repository owner at <your-email@example.com>.
+For questions or support, contact the repository owner at contact@srujanchidarla.com.
